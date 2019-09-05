@@ -1,0 +1,3 @@
+function result = model()
+    
+end
